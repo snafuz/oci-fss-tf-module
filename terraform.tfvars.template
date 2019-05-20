@@ -1,0 +1,17 @@
+tenancy_ocid = "ocid1.tenancy.oc1....."
+user_ocid = "ocid1.user.oc1....."
+compartment_ocid = "ocid1.compartment.oc1....."
+api_fingerprint = "..."
+api_private_key_path = "..."
+region = "us-phoenix-1"
+
+# ssh keys
+ssh_private_key_path = "..."
+ssh_public_key_path = "..."
+
+label_prefix = "fss"
+
+#network
+vcn_id      = "ocid1.vcn.oc1...."
+rt_id       = "ocid1.routetable.oc1...."
+subnet_cidr = ""
